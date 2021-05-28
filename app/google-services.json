@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070473797155",
+    "project_id": "thaianhhao-e7242",
+    "storage_bucket": "thaianhhao-e7242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070473797155:android:dee871492b34fa3fce9b96",
+        "android_client_info": {
+          "package_name": "com.example.a18076801_thaianhhao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070473797155-13lcv26uovbe4lou98qjc74fhgn9i6dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARfa6mrp7w1lH5KKaY8jbJcAWz9DkGqIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070473797155-13lcv26uovbe4lou98qjc74fhgn9i6dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
